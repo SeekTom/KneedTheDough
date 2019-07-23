@@ -1,0 +1,21 @@
+{
+  "name": "kneed-the-dough",
+  "version": "1.0.0",
+  "description": "Server for Autopilot training exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Curtis @SeekTom",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7",
+    "mustache-express": "^1.2.8",
+    "twilio-sync": "^0.11.3"
+  },
+  "devDependencies": {}
+}
